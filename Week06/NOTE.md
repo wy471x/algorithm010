@@ -17,7 +17,7 @@ public void recur(int level, int param) {
 }
 ```
 
-## 分支代码模板
+## 分治代码模板
 
 ```python
 # Python
